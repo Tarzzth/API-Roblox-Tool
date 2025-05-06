@@ -5,3 +5,4 @@ API Script Hack
 API Script Roblox Cheat Expilot
 
 # วิธีใช้ API ผ่านตัวแปร _G. 
+configs ง่ายๆ 
